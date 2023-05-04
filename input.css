@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.px-15 {
+	padding-left: 3.9rem;
+	padding-right: 3.9rem;
+}
+
+.pr-15 {
+	padding-right: 3.57rem;
+}
